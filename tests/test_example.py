@@ -1,4 +1,3 @@
-import pytest
 from selenium import webdriver
 from helpers import CHROME_DRIVER_PATH
 
